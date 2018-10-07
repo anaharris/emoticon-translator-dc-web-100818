@@ -48,5 +48,5 @@ end
 def get_english_meaning(path, emoticon)
   file = YAML.load_file(path)
   hash = load_library(path)
-  
+  r = 
 end
